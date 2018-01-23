@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/easy-travel.iml" filepath="$PROJECT_DIR$/easy-travel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy-travel-api/easy-travel-api.iml" filepath="$PROJECT_DIR$/easy-travel-api/easy-travel-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy-travel-entity/easy-travel-entity.iml" filepath="$PROJECT_DIR$/easy-travel-entity/easy-travel-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy-travel-provider/easy-travel-provider.iml" filepath="$PROJECT_DIR$/easy-travel-provider/easy-travel-provider.iml" />
+    </modules>
+  </component>
+</project>
